@@ -1,2 +1,4 @@
-buka file DE.m untuk menjalankan program tanpa GUI.
-buka file guita.m lalu jalankan program untuk menjalankan GUI aplikasi.
+Program implemented with Matlab
+
+open DE.m file to run program without GUI.
+open the guita.m file then run the program to run the application GUI.
